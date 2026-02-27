@@ -1,8 +1,7 @@
 
 ExpenseTracker 
 Version 1.0 
-Use this URL to install the package into any organization:
-https://orgfarm-7d04f4b4d8-dev-ed.develop.my.salesforce-setup.com/lightning/setup/SetupOneHome/home
+Use this URL to install the package into any organization.
 
 Note: If you are installing into a sandbox organization you must replace the initial portion of the URL.
 
