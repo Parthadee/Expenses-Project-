@@ -1,0 +1,4 @@
+<aura:component >
+    <p>Hello Lightning!</p>
+    <div> This is another block to test</div>
+</aura:component>
